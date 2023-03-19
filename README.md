@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BiswajitGhosal2000
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Web Development ,my sql,bootstrap, html ,css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development ,MySQL,bootstrap, html ,css,java,JDBC,Struts,Spring Boot
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
