@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Web Development ,MySQL,bootstrap, html ,css,java,JDBC,Struts,Spring Boot
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
+- 📫 Contact me on LinkedIn https://www.linkedin.com/in/biswajitghosal or you can visit [http](https://biswajitghosal.me/)
 
 <!---
 BiswajitGhosal2000/BiswajitGhosal2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
