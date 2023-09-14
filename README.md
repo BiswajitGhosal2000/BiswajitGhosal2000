@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BiswajitGhosal2000
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Web Development ,MySQL,bootstrap, html ,css,java,JDBC,Struts,Spring Boot
+- 👀 I’m interested in Full Stack web development.
+- 🌱 I’m currently learning React Js, Mongodb, Express Js, Node Js
+- 🌱 Here are some of my skills logo Web Development ,MySQL,bootstrap, html ,css,java,JDBC,Struts
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Contact me on LinkedIn [biswajitghosal](https://www.linkedin.com/in/biswajitghosal) or you can visit [biswajitghosal](https://biswajitghosal.me/)
 
