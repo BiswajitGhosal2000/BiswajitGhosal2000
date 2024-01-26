@@ -60,7 +60,7 @@ I am open to collaborating on web development projects. If you have an interesti
 
 ## Portfolio
 
-You can view my portfolio and see some of my previous work at [biswajitghosal](https://biswajitghosal.me/).
+You can view my portfolio and see some of my previous work at [biswajitghosal](https://biswajitghosal2000.github.io/profile/).
 
 Let's build amazing web experiences together!
 
