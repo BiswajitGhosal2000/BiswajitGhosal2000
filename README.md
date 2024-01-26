@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 💞️ I’m looking to collaborate on Web Development projects.
 
-📫 You can contact me on LinkedIn: [biswajitghosal](https://www.linkedin.com/in/biswajitghosal) or visit my portfolio at [biswajitghosal](https://biswajitghosal.me/).
+📫 You can contact me on LinkedIn: [biswajitghosal](https://www.linkedin.com/in/biswajitghosal) or visit my portfolio at [biswajitghosal](https://biswajitghosal2000.github.io/profile/)).
 
 ## About Me
 
