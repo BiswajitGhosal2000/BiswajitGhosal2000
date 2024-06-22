@@ -17,13 +17,15 @@ You can click the Preview link to take a look at your changes.
 🌱 I’m currently learning React Js, Mongodb, Express Js, Node Js, and here are some of my existing skills:
 
 - Web Development
+- React Js
+- Node Js
+- MongoDB
 - MySQL
 - Bootstrap
 - HTML
 - CSS
-- Java
-- JDBC
-- Struts
+- Git
+- Github
 
 💞️ I’m looking to collaborate on Web Development projects.
 
