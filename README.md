@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @BiswajitGhosal2000  
 
-🌱 I’m currently working as a **GenAI Developer** with 2 years of experience in building AI-powered applications and web solutions. My focus is on **Machine Learning, Generative AI, and Full Stack Development**.  
+🌱 I’m currently working as a **GenAI Developer** with 2 years of experience in building AI-powered applications and web solutions. My focus is on **Generative AI, Machine Learning and Full Stack Development**.  
 
 ---
 
@@ -25,7 +25,7 @@
 - Build **scalable GenAI applications** (RAG, chatbots, LLM-based tools)  
 - Develop **Machine Learning models** for real-world use cases  
 - Design and deploy **end-to-end web apps** using FastAPI, Node.js, React, and MongoDB  
-- Leverage **cloud platforms (AWS, GCP)** for scalable deployments  
+- Leverage **cloud platforms (AWS)** for scalable deployments  
 
 📌 **Current Focus**  
 - Machine Learning (step by step mastery)  
@@ -40,7 +40,7 @@
 ## 🔥 About Me  
 
 I am a passionate **AI/ML Engineer** with hands-on experience in both **software development** and **applied machine learning**.  
-- Started my career as a **Full Stack Developer**, gaining expertise in Java, MySQL, Bootstrap, React, Node.js, and MongoDB.  
+- Started my career as a **Generative AI Developer**, gaining expertise in Python, AWS, Langchain, FastAPI, and MongoDB.  
 - Transitioned into **Generative AI**, building intelligent applications for real-world use cases.  
 - Currently enhancing my expertise in **ML algorithms, model training, and deployment pipelines**.  
 
@@ -50,13 +50,13 @@ I enjoy working at the intersection of **AI, software engineering, and cloud**, 
 
 ## 🚀 Skills  
 
-- **AI/ML**: Generative AI, RAG, LLM integration, Fine-tuning, Machine Learning
-- **Backend**: FastAPI, Flask 
-- **Frontend**: React.js, Bootstrap, HTML, CSS  
-- **Databases**: MongoDB, MySQL  
-- **Languages**: Python 
-- **Cloud & DevOps**: AWS, Azure, Git, GitHub  
-- **Others**: REST APIs, JWT Authentication  
+- **Programming & Frameworks**: Python, FastAPI, Flask, Streamlit, REST APIs
+- **Generative AI: Large Language Models (OpenAI, Claude, Gemini, LLaMA), Retrieval-Augmented Generation (RAG), LangChain, Prompt Engineering, LLMOps, Embeddings,
+- **AI/ML & Computer Vision**: Pandas, NumPy, OpenCV, OCR, Vision Models
+- **Databases & Vector Stores**: MongoDB, MySQL | Chroma
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, Textract, Bedrock, IAM), Docker, Git/GitHub
+- **Frontend**: React.js, Tailwind CSS, HTML, CSS
+- **Testing & API Tools**: Unit Testing, Postman, Swagger/OpenAPI
 
 ---
 
