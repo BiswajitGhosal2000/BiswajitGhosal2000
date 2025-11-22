@@ -1,79 +1,98 @@
-# Biswajit Ghosal - AI/ML Engineer  
+# Biswajit Ghosal — AI/ML Engineer
 
-👋 Hi, I’m @BiswajitGhosal2000  
+👋 Hi, I’m **@BiswajitGhosal2000**
 
-🌱 I’m currently working as a **GenAI Developer** with 2 years of experience in building AI-powered applications and web solutions. My focus is on **Generative AI, Machine Learning and Full Stack Development**.  
+I'm an **AI/ML Engineer & GenAI Developer** with **2+ years of experience** building AI-powered applications, RAG systems, and full-stack web solutions. My work revolves around **Generative AI**, **Machine Learning**, and **Scalable Backend Development**.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)    
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 💡 What I Do  
+## 💡 What I Do
 
-- Build **scalable GenAI applications** (RAG, chatbots, LLM-based tools)  
-- Develop **Machine Learning models** for real-world use cases  
-- Design and deploy **end-to-end web apps** using FastAPI, Node.js, React, and MongoDB  
-- Leverage **cloud platforms (AWS)** for scalable deployments  
+- Build **scalable GenAI applications** (RAG systems, chatbots, LLM tools)  
+- Develop **ML models** and deploy them into production  
+- Create **end-to-end web apps** using FastAPI, Node.js, React, and MongoDB  
+- Deploy solutions on **AWS** with EC2, Lambda, S3, Docker, and more  
 
-📌 **Current Focus**  
-- Machine Learning (step by step mastery)  
-- Generative AI (chatbots, RAG pipelines, fine-tuning, embeddings)  
-- FastAPI + MongoDB (backend for AI-driven apps)  
-- Cloud-based AI/ML deployment  
+### 📌 Current Focus
 
-📫 You can connect with me on LinkedIn: [biswajitghosal](https://www.linkedin.com/in/biswajitghosal) or visit my portfolio: [biswajitghosal](https://biswajitghosal2000.github.io/profile/).  
+- Deepening ML fundamentals  
+- Building advanced GenAI apps (RAG, embeddings, fine-tuning)  
+- Backend engineering with FastAPI + MongoDB  
+- Cloud-based deployment pipelines  
 
----
+📫 Connect with me on **LinkedIn**:  
+🔗 https://www.linkedin.com/in/biswajitghosal  
 
-## 🔥 About Me  
-
-I am a passionate **AI/ML Engineer** with hands-on experience in both **software development** and **applied machine learning**.  
-- Started my career as a **Generative AI Developer**, gaining expertise in Python, AWS, Langchain, FastAPI, and MongoDB.  
-- Transitioned into **Generative AI**, building intelligent applications for real-world use cases.  
-- Currently enhancing my expertise in **ML algorithms, model training, and deployment pipelines**.  
-
-I enjoy working at the intersection of **AI, software engineering, and cloud**, where I can create products that are both **intelligent and scalable**.  
+🌐 Portfolio:  
+🔗 https://biswajitghosal2000.github.io/profile/
 
 ---
 
-## 🚀 Skills  
+## 🔥 About Me
 
-- **Programming & Frameworks**: Python, FastAPI, Flask, Streamlit, REST APIs
-- **Generative AI: Large Language Models (OpenAI, Claude, Gemini, LLaMA), Retrieval-Augmented Generation (RAG), LangChain, Prompt Engineering, LLMOps, Embeddings,
-- **AI/ML & Computer Vision**: Pandas, NumPy, OpenCV, OCR, Vision Models
-- **Databases & Vector Stores**: MongoDB, MySQL | Chroma
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, Textract, Bedrock, IAM), Docker, Git/GitHub
-- **Frontend**: React.js, Tailwind CSS, HTML, CSS
-- **Testing & API Tools**: Unit Testing, Postman, Swagger/OpenAPI
+I’m a passionate **AI/ML Engineer** with strong experience across both **software engineering** and **applied machine learning**.
+
+- Started as a **GenAI Developer** building intelligent applications using Python, FastAPI, AWS, and LangChain  
+- Transitioned deeper into ML, focusing on model training, pipelines, and deployment  
+- I enjoy blending **AI + backend + cloud** to build intelligent and scalable products  
 
 ---
 
-## 🤝 Collaboration  
+## 🚀 Skills
 
-💞️ I’m open to collaborating on projects involving:  
+### **Programming & Frameworks**
+Python, FastAPI, Flask, Streamlit, REST APIs
+
+### **Generative AI**
+LLMs (OpenAI, Claude, Gemini, LLaMA),  
+RAG, LangChain, Prompt Engineering, Embeddings, LLMOps
+
+### **AI/ML & Computer Vision**
+Pandas, NumPy, Scikit-learn, OpenCV, OCR, Vision Models
+
+### **Databases & Vector Stores**
+MongoDB, MySQL, ChromaDB
+
+### **Cloud & DevOps**
+AWS (EC2, S3, Lambda, Textract, Bedrock, IAM), Docker, Git/GitHub
+
+### **Frontend**
+React.js, Tailwind CSS, HTML, CSS
+
+### **Testing & API Tools**
+PyTest, Postman, Swagger/OpenAPI
+
+---
+
+## 🤝 Collaboration
+
+I’m open to working on:
+
 - Generative AI applications  
-- Machine Learning model development  
-- End-to-end AI-powered SaaS/web apps  
+- Machine Learning projects  
+- Full-stack AI-powered SaaS/web apps  
 
-If you have an exciting AI/ML project, feel free to reach out to me!  
+If you have an interesting idea, feel free to reach out!
 
 ---
 
-## 🌐 Portfolio  
+## 🌐 Portfolio
 
-You can explore my portfolio and previous projects here:  
-👉 [biswajitghosal](https://biswajitghosal2000.github.io/profile/)  
+Explore my work:  
+👉 https://biswajitghosal2000.github.io/profile/
 
-🚀 Let’s build **intelligent, scalable, and impactful AI solutions** together!  
+🚀 Let’s build **intelligent, scalable, and impactful AI solutions** together!
