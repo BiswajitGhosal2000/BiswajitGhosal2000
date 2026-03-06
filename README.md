@@ -1,92 +1,118 @@
-# Biswajit Ghosal — AI/ML Engineer
+# Biswajit Ghosal — AI Engineer | Generative AI | LLM Applications
 
 👋 Hi, I’m **@BiswajitGhosal2000**
 
-I'm an **AI/ML Engineer & GenAI Developer** with **2+ years of experience** building AI-powered applications, RAG systems, and full-stack web solutions. My work revolves around **Generative AI**, **Machine Learning**, and **Scalable Backend Development**.
+I’m an **AI Engineer with 3+ years of experience** building **Generative AI systems, LLM-powered applications, and scalable AI backends**.
+
+My work focuses on **LLM applications, Retrieval-Augmented Generation (RAG), intelligent document processing, and AI-powered automation systems**.
+
+I enjoy building **production-ready AI products that combine LLMs, backend engineering, and cloud infrastructure.**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 Core Expertise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Generative AI & LLM Applications  
+- Retrieval-Augmented Generation (RAG) Systems  
+- Intelligent Document Processing (OCR + AI pipelines)  
+- AI Backend Engineering with FastAPI  
+- AI-powered automation systems  
+- Cloud-based AI deployment (AWS)
 
 ---
 
-## 💡 What I Do
+## 🛠 Tech Stack
 
-- Build **scalable GenAI applications** (RAG systems, chatbots, LLM tools)  
-- Develop **ML models** and deploy them into production  
-- Create **end-to-end web apps** using FastAPI, Node.js, React, and MongoDB  
-- Deploy solutions on **AWS** with EC2, Lambda, S3, Docker, and more  
+### Programming
+Python
 
-### 📌 Current Focus
+### Backend
+FastAPI, Flask, REST APIs
 
-- Deepening ML fundamentals  
-- Building advanced GenAI apps (RAG, embeddings, fine-tuning)  
-- Backend engineering with FastAPI + MongoDB  
-- Cloud-based deployment pipelines  
+### Generative AI
+OpenAI, Gemini, Claude, LLaMA  
+LangChain, RAG, Embeddings, Prompt Engineering
 
-📫 Connect with me on **LinkedIn**:  
-🔗 https://www.linkedin.com/in/biswajitghosal  
+### Document AI
+AWS Textract  
+OCR pipelines  
+Document parsing & information extraction
 
-🌐 Portfolio:  
-🔗 https://biswajitghosal2000.github.io/profile/
+### Databases
+MongoDB  
+MySQL  
+Vector Databases (ChromaDB)
 
----
+### Cloud & DevOps
+AWS (EC2, S3, Lambda, Textract, Bedrock)  
+Docker  
+GitHub Actions
 
-## 🔥 About Me
+### Frontend
+React.js  
+Streamlit  
+HTML, CSS
 
-I’m a passionate **AI/ML Engineer** with strong experience across both **software engineering** and **applied machine learning**.
-
-- Started as a **GenAI Developer** building intelligent applications using Python, FastAPI, AWS, and LangChain  
-- Transitioned deeper into ML, focusing on model training, pipelines, and deployment  
-- I enjoy blending **AI + backend + cloud** to build intelligent and scalable products  
-
----
-
-## 🚀 Skills
-
-### **Programming & Frameworks**
-Python, FastAPI, Flask, Streamlit, REST APIs
-
-### **Generative AI**
-LLMs (OpenAI, Claude, Gemini, LLaMA),  
-RAG, LangChain, Prompt Engineering, Embeddings, LLMOps
-
-### **AI/ML & Computer Vision**
-Pandas, NumPy, Scikit-learn, OpenCV, OCR, Vision Models
-
-### **Databases & Vector Stores**
-MongoDB, MySQL, ChromaDB
-
-### **Cloud & DevOps**
-AWS (EC2, S3, Lambda, Textract, Bedrock, IAM), Docker, Git/GitHub
-
-### **Frontend**
-React.js, Tailwind CSS, HTML, CSS
-
-### **Testing & API Tools**
-PyTest, Postman, Swagger/OpenAPI
+### Tools
+Git  
+Postman  
+Swagger / OpenAPI  
+PyTest
 
 ---
 
-## 🤝 Collaboration
+## 🚀 Key Work
 
-I’m open to working on:
+### AI Email Assistant
 
-- Generative AI applications  
-- Machine Learning projects  
-- Full-stack AI-powered SaaS/web apps  
+Built an AI-powered email assistant that:
 
-If you have an interesting idea, feel free to reach out!
+- Automatically processes emails  
+- Generates AI replies using LLMs  
+- Categorizes and summarizes messages  
+- Built using **FastAPI + LLM APIs + Streamlit UI**
+
+---
+
+### Document AI Pipeline
+
+Developed an intelligent document processing system that:
+
+- Extracts structured data using **AWS Textract**  
+- Parses key-value pairs and tables  
+- Uses **LLMs to summarize and analyze documents**
+
+---
+
+### AI Document Summarizer
+
+Built a document summarization platform that:
+
+- Connects to **Google Drive using OAuth**  
+- Extracts content from **PDF, DOCX, TXT**  
+- Uses **Gemini AI for summarization**  
+- Generates **exportable reports**
+
+---
+
+### RAG-based Knowledge Systems
+
+Built knowledge retrieval systems using:
+
+- Embeddings  
+- Vector databases  
+- Context retrieval  
+- LLM-based answer generation
+
+---
+
+## 🌱 Current Focus
+
+- Advanced **RAG architectures**  
+- **LLM application development**  
+- **LLMOps & AI system design**  
+- **Vector databases and retrieval systems**  
+- **Scalable AI backend systems**
 
 ---
 
@@ -95,4 +121,13 @@ If you have an interesting idea, feel free to reach out!
 Explore my work:  
 👉 https://biswajitghosal2000.github.io/profile/
 
-🚀 Let’s build **intelligent, scalable, and impactful AI solutions** together!
+---
+
+## 🤝 Let's Connect
+
+LinkedIn  
+🔗 https://www.linkedin.com/in/biswajitghosal
+
+---
+
+🚀 I’m passionate about building **intelligent AI applications powered by LLMs and scalable backend systems.**
